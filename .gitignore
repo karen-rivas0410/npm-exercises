@@ -3,5 +3,5 @@ public/main.js
 node_modules
 
 .DS_Store
-.iml
+*iml
 .idea/
